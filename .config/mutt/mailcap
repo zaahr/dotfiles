@@ -1,0 +1,5 @@
+text/html; open -a Firefox %s; test=test -n "$DISPLAY"; needsterminal;
+text/html; lynx -display_charset=utf-8 -dump %s; nametemplate=%s.html; copiousoutput
+text/plain; cat %s; copiousoutput
+image/*; sxiv '%s'; test=test -n "$DISPLAY";
+application/pdf; zathura '%s'; test=test -n "$DISPLAY"; needsterminal;

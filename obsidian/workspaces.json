@@ -1,0 +1,215 @@
+{
+  "workspaces": {
+    "main": {
+      "main": {
+        "id": "7b4aee93026a3d36",
+        "type": "split",
+        "children": [
+          {
+            "id": "c81fb044fce8c296",
+            "type": "split",
+            "children": [
+              {
+                "id": "91cec6b45656c055",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e1e95995c80d9bc8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "455233ae577b6331",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a7a9f34d1c7d7105",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "reminders.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "e33a2eb66924331a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "47652bddb8a9e90e",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "67261cc5c98e8206",
+        "type": "split",
+        "children": [
+          {
+            "id": "feb95afadf70de47",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "076a9619f26cad71",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "7016677f34844de9",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "c5eaa5f6f712e762",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf546032166aa2cc",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#card",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f6be585fcea3f8ad",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "e75afd8e5f13e789",
+        "type": "split",
+        "children": [
+          {
+            "id": "69d3f8a7a87b7488",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cc10c464326faec0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "reminders.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b19d5a086401b6f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "reminders.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b470d2ddc952fa4d",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "reminders.md"
+                  }
+                }
+              },
+              {
+                "id": "47fe625d3d3c7c8f",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "adcc713654434816",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c9f4983f49a8db24",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 566.5,
+        "collapsed": true
+      },
+      "ribbon": {
+        "mostRecentAction": ""
+      },
+      "active": "076a9619f26cad71"
+    }
+  },
+  "active": "main"
+}

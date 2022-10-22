@@ -1,0 +1,36 @@
+{
+  "scanned": true,
+  "reminders": {
+    "reminders.md": [
+      {
+        "title": "#compos - assignment 2",
+        "time": "2022-11-06 00:00",
+        "rowNumber": 0
+      },
+      {
+        "title": "#QC - practice for entrance exam",
+        "time": "2022-11-06 00:00",
+        "rowNumber": 1
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "DD-MM-YYYY",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "obsidiflip",
+    "tes2"
+  ],
+  "translucency": false,
+  "baseFontSize": 17,
+  "accentColor": "#8e1c01",
+  "interfaceFontFamily": "MesloLGMDZ Nerd Font,Menlo,MesloLGMDZ NFM"
+}
